@@ -1,4 +1,5 @@
 # Youtube Video Downloader: This application helps users to download youtube video with its link
+# Note : This is for educational purposes only
 # Author: Manu S Rao
 # Date: 25-06-2021
 
